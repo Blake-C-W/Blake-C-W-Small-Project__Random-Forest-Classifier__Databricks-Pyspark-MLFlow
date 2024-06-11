@@ -1,4 +1,4 @@
-# Small-Project__Random-Forest-Classifier__Databricks-Pyspark-MLFlow
+# Small-Project__Random-Forest-Classifier__Databricks-PySpark-MLFlow
 Small Random Forest Project to Practice Databricks, PySpark, and MLFlow (need to improve implementation. currently Databricks starts MLFLow Automatically)
 
 Inspired By:
